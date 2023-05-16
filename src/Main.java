@@ -8,7 +8,10 @@ public class Main {
         List<String> list = new ArrayList<>();
 
         list.add("one");
-        list.add("two");
+        list.add("two"); //егор красава!!!!!!!!!!!!!!!!!!!!!!!!
         list.add("the");
+
+
+
     }
 }

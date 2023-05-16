@@ -1,3 +1,5 @@
+package examples;
+
 public class Example {
     public String stroka;
     private String privateStroka;

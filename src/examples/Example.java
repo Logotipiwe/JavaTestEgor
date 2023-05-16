@@ -5,7 +5,11 @@ public class Example {
     private String privateStroka;
 
 
-    public String getPrivateStroka() {
+    public String getPrivateStroka(){
         return privateStroka;
+    }
+
+    public Example(){
+//        this.name = somethin;
     }
 }
